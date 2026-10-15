@@ -1,9 +1,8 @@
 # 第3次作業(4%)
-- 學號：(請務必填寫)
-- 姓名：(請務必填寫)
-
+學號：11515135
+- 姓名：彭祥銨
 ## 作業目標
-1. VSCode複製GitHub上2個儲存庫Repo
+1. VSCode複製G itHub上2個儲存庫Repo
    1. 在電腦建立資料夾：D:\Web
       1. 目的為存放以下2個Repo
    2. 由GitHub複製Repo：WebSpec_學號
